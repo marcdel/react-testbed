@@ -10,3 +10,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Install dependencies with `yarn`
 * Use the standard create-react-app scripts `npm start`, `npm test`, `npm run build`.
 * Set up Heroku for staging and PR review apps.
+* Generage coverage report with `npm test -- --coverage --coverageDirectory='coverage'`
