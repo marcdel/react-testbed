@@ -1,5 +1,5 @@
 # React Testbed
-[![Build Status](https://travis-ci.org/marcdel/react-testbed.svg?branch=master)](https://travis-ci.org/marcdel/react-testbed) [![Code Climate](https://codeclimate.com/github/marcdel/react-testbed/badges/gpa.svg)](https://codeclimate.com/github/marcdel/react-testbed)
+[![Build Status](https://travis-ci.org/marcdel/react-testbed.svg?branch=master)](https://travis-ci.org/marcdel/react-testbed) [![Code Climate](https://codeclimate.com/github/marcdel/react-testbed/badges/gpa.svg)](https://codeclimate.com/github/marcdel/react-testbed) [![dependencies Status](https://david-dm.org/marcdel/react-testbed/status.svg)](https://david-dm.org/marcdel/react-testbed)
 
 Demo project for testing react related things (modules, components, CI, etc.)
 
@@ -9,3 +9,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Clone the repository
 * Install dependencies with `yarn`
 * Use the standard create-react-app scripts `npm start`, `npm test`, `npm run build`.
+* Set up Heroku for staging and PR review apps.
