@@ -8,6 +8,8 @@ cache:
 script:
   - npm test
   - npm run build
+after_success:
+  - codeclimate < ./coverage/lcov.info
 addons:
   code_climate:
     repo_token:
